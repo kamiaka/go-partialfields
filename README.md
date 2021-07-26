@@ -1,0 +1,1 @@
+# go-perfect-struct-lint
